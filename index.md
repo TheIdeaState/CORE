@@ -687,7 +687,7 @@ Securing provenance and legacy is the baseline for a world where the only remain
 
 This glossary defines the foundational terminology of the post-scarcity era. It serves as a reference for Idea Artists, Builders, and Guardians navigating the transition from the Scarcity Model to the Cultural Operating System.
 
-The terms defined herein describe conceptual primitives and illustrative architectures used throughout the manuscript. Where specific mechanisms are named, they represent possible implementations rather than immutable prescriptions, and remain subject to human judgment, consent, and revision.
+The terms collected here describe the conceptual primitives and architectural patterns explored in this manuscript. They are intended to clarify meaning, not to prescribe inevitability. Where specific systems or mechanisms are named, they should be understood as illustrative proposals—bounded by human ethics, consent, and the continuing authority of human judgment.
 
 ## Core Economic & Philosophical Concepts
 
