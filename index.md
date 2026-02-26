@@ -1,4 +1,4 @@
-# THE IDEA STATE: THE ORIGIN PROTOCOLS (BOOK I)
+# THE IDEA STATE: The Nation of Imagination
 
 ## Introduction: The Declaration of Symbiosis 
 
