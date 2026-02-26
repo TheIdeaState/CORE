@@ -1,6 +1,7 @@
 ---
 layout: null
 ---
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <div style="text-align: center;"><img src="final.png" alt="The Idea State Banner" style="max-width: 100%; height: auto;"></div>
 
