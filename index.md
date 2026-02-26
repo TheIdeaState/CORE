@@ -1,3 +1,5 @@
+<div style="text-align: center;"><img src="final.jpg" alt="The Idea State Banner" style="max-width: 100%; height: auto;"></div>
+
 # THE IDEA STATE: The Nation of Imagination
 
 ## Introduction: The Declaration of Symbiosis 
