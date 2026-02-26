@@ -1,5 +1,5 @@
 <style>
-  header, .page-header, .site-header { 
+  header, .page-header, .site-header, .project-name, .project-title, .repository-name, #project_title { 
     display: none !important; 
   }
 </style>
