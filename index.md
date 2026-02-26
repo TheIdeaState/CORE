@@ -1,8 +1,3 @@
-<style>
-  header, .page-header, .site-header, .project-name, .project-title, .repository-name, #project_title { 
-    display: none !important; 
-  }
-</style>
 
 <div style="text-align: center;"><img src="final.png" alt="The Idea State Banner" style="max-width: 100%; height: auto;"></div>
 
